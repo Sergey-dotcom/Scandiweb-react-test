@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+For this application to work, you must first to fetch data from the GraphQL endpoint. You can find the endpoint [here](https://github.com/scandiweb/junior-react-endpoint), along with instructions on how to launch it.
+
 ## Available Scripts
 
 In the project directory, you can run:
